@@ -7,9 +7,3 @@
 </div>
 
 ![HugoBot](https://i.imgur.com/MEV3B1W.png)
-
-## Features
-
-<br/>
-
-![Features](https://i.imgur.com/Z59qwIP.png)
