@@ -1,7 +1,7 @@
 <div align="center">
-  <div>
+  <a href="https://hugobot.io/">
       <img src="https://hugobot.io/img/logo.png" alt="HugoBot" width="84" style="border-radius: 50%;"/>
-  </div>
+  </a>
   <h3>HugoBot</h3>
   <p>An integrated scratchpad for PHP</p>
 </div>
